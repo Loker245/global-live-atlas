@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/rc/:path*",
+      "destination": "https://restcountries.com/:path*"
+    }
+  ]
+}
